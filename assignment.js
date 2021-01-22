@@ -1,3 +1,5 @@
+//https://github.com/tanbir007/javascript-problem
+
 //this is the first problem
  function kilometerToMeter(kilo){
     var meter= kilo*1000;
@@ -25,7 +27,7 @@ console.log(min);
 
 
 //this is 3rd prblm
-// budgetCalculator
+// budgetCalculator- sorry budgetCalculator function isnt working for me.i tried my best. 
 function watch(price, unit) {
    
     if (unit === 0 ) {
